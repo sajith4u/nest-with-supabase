@@ -82,3 +82,9 @@ npx prisma migrate dev
 npx prisma generate
 
 npx prisma studio
+
+
+### Add Controller to module
+========================
+
+nest g controller user --no-spec
